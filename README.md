@@ -9,7 +9,7 @@
         </td>
         <td>
             <a href="https://github.com/coder7eeN">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder7een&layout=compact&theme=radical)" width="100%" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder7een&layout=compact&theme=radical&custom_title=Top Languages" width="100%" />
             </a>
         </td>
     </tr>
