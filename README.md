@@ -1,6 +1,6 @@
 <h2 align="center">Hello world :) </h2>
 
-<table style="width: 100; border-collapse: collapse; border: none;">
+<table style="width: 100; border-radius: 10px;">
     <tr style="border: none;">
         <td style="border: none;">
             <a href="https://github.com/coder7eeN">
