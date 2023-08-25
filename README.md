@@ -1,7 +1,5 @@
 <h2 align="center">Hello world :) </h2>
 
-![LoliCount](https://count.getloli.com/get/@coder7eeN?theme=rule34)
-
 <table style="width: 100; border-collapse: collapse; border: none;">
     <tr style="border: none;">
         <td style="border: none;">
