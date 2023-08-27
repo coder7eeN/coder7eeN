@@ -1,6 +1,6 @@
 <h2 align="center">Hello world :) </h2>
 
-<p align="center">
+<p>
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:coder7eeN?theme=rule34></a>
     <img src="https://weather-icon.journeyad.repl.co/@danang?v=1" align="right">
 </p>
