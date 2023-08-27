@@ -1,5 +1,10 @@
 <h2 align="center">Hello world :) </h2>
 
+<p align="center">
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:coder7eeN?theme=rule34></a>
+    <img src="https://weather-icon.journeyad.repl.co/@danang?v=1" align="right">
+</p>
+
 <table style="width: 100; border-collapse: collapse; border: none;">
     <tr style="border: none;">
         <td style="border: none;">
