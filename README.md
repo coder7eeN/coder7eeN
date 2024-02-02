@@ -20,7 +20,7 @@
 </table>
 
 <p>
-  <h3 align="center">Stay young, stay naïve, stay curious</h3>
+  <h3 align="center">stay young, stay naïve, stay curious</h3>
 </p>
 
 <!-- [![Huy Pham's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder7een&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/coder7eeN) 
