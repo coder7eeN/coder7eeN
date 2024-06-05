@@ -1,7 +1,7 @@
 <h2 align="center">Hello world :) </h2>
 
 <p>
-  <h2 align="center"><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:coder7eeN?theme=rule34" align="center"></a>名の訪問者を歓迎します 👋 </h2>
+  <h2 align="center"> 👋 名の訪問者を歓迎します。</h2>
 </p>
 
 <table style="width: 100; border-collapse: collapse; border: none;">
